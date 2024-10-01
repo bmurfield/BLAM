@@ -1,2 +1,2 @@
-# Project-1
+# BLAM
 Repository for first group project

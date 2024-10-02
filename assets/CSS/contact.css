@@ -1,0 +1,25 @@
+#Client-head {
+    font-size: 100px;
+    color: #ff7951;
+}
+
+h4, h6 {
+    flex: 1 1 50%;
+    border: 2px solid;
+    border-radius: 4px;
+    padding: 1rem;
+    position: relative;
+    font-size: 30px;
+    color: #ff7951;
+
+}
+
+ul {
+    list-style: none;
+}
+
+p {
+    font-size: 35px;
+    color: #ff7951;
+    
+}

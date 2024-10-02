@@ -15,3 +15,11 @@ main {
         max-height: 300px;
         
 }
+
+#clearButton, #submitButton {
+    background-color: #002458
+}
+
+p3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

@@ -6,9 +6,13 @@ for(i = 0; i < alldata.length; i++) {
     const data = alldata[i];
 
     const newLi = document.createElement("li");
+    newLi.setAttribute("class", "row");
     const newH4 = document.createElement("h4");
-    const newH5 = document.createElement("h5");
+    newH4.setAttribute("class", "col-4 text-wrap");
+    const newH5 = document.createElement("h4");
+    newH5.setAttribute("class", "col-4 text-wrap");
     const newH6 = document.createElement("h6");
+    newH6.setAttribute("class", "col-4 text-wrap");
 
     newH4.textContent = data.name;
     newH5.textContent = data.email;

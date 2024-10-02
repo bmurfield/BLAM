@@ -9,3 +9,13 @@ submitButton.addEventListener('click', function () {
     alldata.push (data)
     localStorage.setItem("saveddata", JSON.stringify(alldata))
 })
+
+clearButton.addEventListener('click', function () {
+    
+        document.getElementById("nameInput").value = "";
+        document.getElementById("emailInput").value = "";
+        document.getElementById("commentInput").value = "";
+   }
+
+)
+   

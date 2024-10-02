@@ -1,0 +1,17 @@
+html *
+{
+ 
+   color: #ff7951 !important;
+   font-family: Arial !important;
+}
+
+main {
+    font-size: 100%;
+  }
+
+#logoImage{
+    
+        max-width: 300px;
+        max-height: 300px;
+        
+}

@@ -2,7 +2,7 @@ html *
 {
  
    color: #ff7951 !important;
-   font-family: Arial !important;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
 }
 
 main {
@@ -17,9 +17,9 @@ main {
 }
 
 #clearButton, #submitButton {
-    background-color: #002458
-}
+    background-color: #002458;
+    font-size: 25px}
 
-p3{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+#modalButton {
+    background-color: #002458;
 }
